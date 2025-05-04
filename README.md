@@ -176,6 +176,8 @@ gcloud run deploy hello-cloud-run \
 
 I've created a video demonstration showing all the steps involved in deploying the application to each service. 
 
+https://youtu.be/wgl3bDEznag?si=3hzakoj17tAv029E
+
 ## Comparison of Deployment Methods
 
 | Feature | App Engine | Kubernetes Engine | Cloud Run |
