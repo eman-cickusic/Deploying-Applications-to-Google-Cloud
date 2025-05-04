@@ -20,6 +20,12 @@ This project demonstrates how to deploy a simple Python Flask application to thr
 - Docker installed (for Kubernetes Engine and Cloud Run deployments)
 - Basic knowledge of Python and Flask
 
+## Demo Video
+
+I've created a video demonstration of myself showing all the steps involved in deploying the application to each service. 
+
+https://youtu.be/wgl3bDEznag?si=3hzakoj17tAv029E
+
 ## Application Structure
 
 The application is a simple Python Flask web application that displays a welcome message.
@@ -172,11 +178,6 @@ gcloud run deploy hello-cloud-run \
 
 3. Access your application via the URL provided in the command output.
 
-## Demo Video
-
-I've created a video demonstration showing all the steps involved in deploying the application to each service. 
-
-https://youtu.be/wgl3bDEznag?si=3hzakoj17tAv029E
 
 ## Comparison of Deployment Methods
 
