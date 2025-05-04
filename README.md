@@ -174,7 +174,7 @@ gcloud run deploy hello-cloud-run \
 
 ## Demo Video
 
-I've created a video demonstration showing all the steps involved in deploying the application to each service. The video is available at [insert video link here].
+I've created a video demonstration showing all the steps involved in deploying the application to each service. 
 
 ## Comparison of Deployment Methods
 
